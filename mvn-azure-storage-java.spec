@@ -4,7 +4,7 @@
 #
 Name     : mvn-azure-storage-java
 Version  : 7.0.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/Azure/azure-storage-java/archive/v7.0.0.tar.gz
 Source0  : https://github.com/Azure/azure-storage-java/archive/v7.0.0.tar.gz
 Source1  : https://repo1.maven.org/maven2/com/microsoft/azure/azure-storage/7.0.0/azure-storage-7.0.0.jar
